@@ -1,0 +1,9 @@
+{
+    "name": "hephaistos",
+    "version": "0.1.0",
+    "dependencies": [
+        "sdl3",
+        "glad"
+    ],
+    "builtin-baseline": "533a5fda5c0646d1771345fb572e759283444d5f"
+}
